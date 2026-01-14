@@ -8,14 +8,7 @@
     background-image: url(../images/cover\ photo.avif);
     background-size: cover;
     background-repeat: no-repeat;
-    
-}
-
-footer{
-    color:brown;
-    text-align: center;
-    text-decoration: underline;
-    font-weight: 800;
+    box-shadow: 5px 5px 10px tomato;
     
 }
 
@@ -29,6 +22,21 @@ button{
 
 h3{
     color: tomato;
+    
+}
+
+.siv{
+    text-align: center;
+    
+}
+
+
+footer{
+    color:brown;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 800;
+   
     
 }
 
